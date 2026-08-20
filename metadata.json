@@ -1,0 +1,7 @@
+{
+  "name": "CTC Consultas - Política de Privacidade",
+  "description": "Página oficial da Política de Privacidade do aplicativo CTC Consultas | Organização Pessoal e Datas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
